@@ -1,0 +1,104 @@
+
+.page {
+  background-color: hsl(30, 54%, 90%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Outfit', sans-serif;
+  
+
+}
+.container {
+  background-color: white;
+  width: 380px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 25px;
+  border-radius: 15px;
+  font-size: 10px;
+
+}
+img {
+  width: 375px;
+  border-radius: 10px; }
+
+.title {
+  font-size: 22.5px;
+  font-weight: bolder;
+}
+
+.headertext {
+  color: hsl(30, 10%, 34%);
+  font-size: 9.5px;
+  width: 383px;
+}
+
+
+.pt {
+  background-color: hsl(330, 100%, 98%);
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+
+.P-T1 {
+  margin-top: 5px;
+   color: hsl(332, 51%, 32%);
+}
+
+.ppl {
+  color: hsl(332, 51%, 32%);
+}
+
+span {
+  color: hsl(30, 10%, 34%);
+}
+
+li {
+   margin-bottom: 10px;
+    
+}
+
+.pp2 {
+  color:  hsl(14, 45%, 36%);
+}
+
+hr {
+   color: hsl(30, 10%, 34%) ;
+   opacity: 0.3;
+}
+.lastline {
+  color:hsl(332, 51%, 32%) ;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.line1 {
+  color:  hsl(14, 45%, 36%);
+  margin-left: 160px;
+}
+
+.line2 {
+    color:  hsl(14, 45%, 36%);
+  margin-left: 170px;
+}
+
+.line3 {
+  color:  hsl(14, 45%, 36%);
+  margin-left: 163px;
+}
+
+.line4 {
+  color:  hsl(14, 45%, 36%);
+  margin-left: 180px;
+}
+
+.in {
+  font-size: 9.5px;
+  line-height: 1.5;
+  font-weight: 300;}
